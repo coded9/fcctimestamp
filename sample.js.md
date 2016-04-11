@@ -18,7 +18,7 @@ var month = new Array();
     month[11] = "December";
 dateString = month[d.getMonth()] +" "+ d.getDate()+',' + d.getFullYear();
 
-  }
+
  
   console.log(dateString);
 }
